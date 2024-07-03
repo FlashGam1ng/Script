@@ -1,0 +1,10 @@
+Stop-Service -Name EpicOnlineServices
+Stop-Service -Name XboxNetApiSvc
+Stop-Service -Name XboxGipSvc
+Stop-Service -Name XblGameSave
+Stop-Service -Name GamingServices
+Stop-Service -Name GamingServicesNet
+Stop-Service -Name RServer3
+Stop-Service -Name RvControlSvc
+Stop-Service -Name Fax
+Stop-Service -Name wuauserv
